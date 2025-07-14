@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Multi-Speaker Audio Transcriber
 
 A powerful desktop application for transcribing audio files with multiple speakers, supporting both English and Tagalog languages. This tool provides real-time transcription, translation, and meeting minutes generation.
@@ -134,7 +133,7 @@ For issues and feature requests, please create an issue in the GitHub repository
 
 ## License
 
-[Your chosen license]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -142,6 +141,4 @@ For issues and feature requests, please create an issue in the GitHub repository
 - Pyannote for speaker diarization
 - SpeechBrain for speaker embeddings
 - Ollama for meeting minutes generation 
-=======
-# AuTrans
->>>>>>> c92b6983a6c5ee72f9a9066e6a98c54877825dd7
+
